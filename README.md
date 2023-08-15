@@ -1,3 +1,21 @@
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/react-native-weather-app)
+  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/react-native-weather-app?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/react-native-weather-app?style=social)
+ 
+  <br />
+
+  <h2 align="center">React Native Weather App</h2>
+
+In this project, I have created a Weather App, The project is built using Expo, React Native Navigation, NativeWind, HeroIcons, and WeatherAPI.
+
+</div>
+
+### Demo Screenshot
+
+![React Native Weather App Demo](./readme-images/React-Native-Weather-App.png "Desktop Demo")
+
 ## Get Started
 
 install dev dependencies
@@ -6,7 +24,7 @@ install dev dependencies
 
 ## Then
 
-Run The app
+Run The App
 
 ### `npm start`
 
